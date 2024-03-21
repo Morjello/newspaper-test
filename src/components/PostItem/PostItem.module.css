@@ -1,0 +1,19 @@
+.postItem {
+  display: flex;
+  gap: 15px;
+  padding: 15px;
+  border-radius: 15px;
+  text-decoration: none;
+  color: #000;
+  background-color: #daad72;
+}
+
+.postItem:hover {
+  opacity: 0.7;
+}
+
+.postItemContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}

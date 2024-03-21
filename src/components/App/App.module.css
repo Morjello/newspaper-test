@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  min-height: 100vh;
+  padding: 40px 120px;
+  background-color: #daad72;
+}
+
+.appWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  min-height: 85vh;
+  padding: 50px 100px;
+  border-radius: 50px;
+  background-color: #fff;
+}

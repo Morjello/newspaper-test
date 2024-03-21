@@ -1,0 +1,13 @@
+.postPage {
+  display: flex;
+  gap: 50px;
+  padding: 80px;
+  border-radius: 30px;
+  background-color: #daad72;
+}
+
+.postPageContainer {
+  display:  flex;
+  flex-direction: column;
+  gap: 30px;
+}
